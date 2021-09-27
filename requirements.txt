@@ -1,0 +1,12 @@
+six==1.16.0
+SpeechRecognition==3.7.1
+neo4j==4.3
+matplotlib==3.2.2
+PyAudio==0.2.11
+tabulate==0.8.9
+wordtodigits==1.0.2
+networkx==2.5.1
+lightning_flash==0.5
+lightning-flash[audio]
+pandas==1.2.4
+flash==1.0.3
